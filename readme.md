@@ -44,7 +44,7 @@ ollama run mistral
 ### 2. Clone this repository
 
 ```bash
-git clone https://github.com/your-username/simple-chatbot.git
+git clone https://github.com/ryma-tharouma/simple-chatbot-flask-ollama.git
 cd simple-chatbot
 ```
 
