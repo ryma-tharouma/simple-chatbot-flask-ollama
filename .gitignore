@@ -1,0 +1,20 @@
+# .gitignore
+
+# Ignore virtual environment folders
+chatbot-env/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore VSCode settings if you use it
+.vscode/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore ollama model cache (if any future paths appear)
+.ollama/
